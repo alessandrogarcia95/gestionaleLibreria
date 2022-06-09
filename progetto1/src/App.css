@@ -1,0 +1,37 @@
+.margin-0{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* .attivo{
+  background-color: #fff;
+  color: #000;
+} */
+
+
+/* Background */
+.bg-green{
+  background-image: url(images/book.jpg);
+  background-position:0 200px;
+  background-size: cover;
+  height: 160px;
+  background-attachment: fixed;
+}
+
+.bg-special{background-color: #66a993;}
+.bg-special-dark{background-color: #52796f;}
+
+.btn-bg-green{background-color: #354f52;}
+
+
+/* Navbar Hovers */
+.btn-bg-green:hover{background-color: #0d6660;}
+.link-hover:hover{
+  text-shadow: 1px 1px 5px rgb(188, 188, 188);
+  transition: .2s;
+}
+
+
+
+
